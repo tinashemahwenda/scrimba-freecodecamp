@@ -1,7 +1,8 @@
 .twitter-btn{
     padding:5px 20px;
-    border: 1px solid black;
+    border: 1px solid #cfd9de;
     background-color: white;
     font-weight: bold;
     border-radius: 50px;
+    color: #0f1419;
 }
