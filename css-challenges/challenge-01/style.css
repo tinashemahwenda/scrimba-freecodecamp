@@ -28,11 +28,16 @@
 }
 
 .search-btn{
-    display: block;
     margin-top: 20px;
     padding: 15px 20px ;
     border: none;
     background-color: #dfe1e5;
     font-size: 14px;
     border-radius: 5px;
+    margin-left: 10px;
+}
+
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
 }
