@@ -18,3 +18,7 @@ body{
 .dotted-border{
     border: 1px dotted blue;
 }
+
+.card-details{
+    text-align: center;
+}
