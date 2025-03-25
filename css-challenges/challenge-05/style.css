@@ -7,4 +7,10 @@ body{
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
+    margin-left: 10px;
+}
+
+.nav-wrapper{
+    display: flex;
+    justify-content: center;
 }
